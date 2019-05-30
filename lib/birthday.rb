@@ -11,4 +11,6 @@ birthday_kids.each do |key, value|
 end
 end
 
-
+def age_appropriate_birthday(birthday_kids)
+  
+end
